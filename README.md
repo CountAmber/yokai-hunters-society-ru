@@ -1,4 +1,4 @@
-# Yokai Hunter Society — Русский перевод [ru]
+# Yokai Hunter Society | Русский перевод [ru]
 Модуль локализации системы [Yokai Hunter Society](https://github.com/bernardoclon/yhs) для [Foundry VTT](https://foundryvtt.com/) на русский язык. Перевод адаптирует листы персонажей, характеристики и интерфейс системы.
 
 ## ℹ️ Об игре
