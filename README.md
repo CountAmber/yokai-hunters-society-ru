@@ -16,7 +16,7 @@
 
 ## 🔩 Совместимость
 - Foundry VTT: 12.328 — 13.351
-- Система: Yokai Hunter Society (yokai-hunters-society)
+- Система: Yokai Hunter Society ([yokai-hunters-society](https://foundryvtt.com/packages/yokai-hunters-society))
 
 ## 📮 Связь и ошибки
 Если вы нашли опечатку, неточный перевод или ошибку в интерфейсе:
