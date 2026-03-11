@@ -1,6 +1,6 @@
 {
   "id": "yokai-hunter-ru",
-  "title": "Yokai Hunter Society — Русский перевод [ru]",
+  "title": "Yokai Hunter Society | Русский перевод [ru]",
   "description": "Русский язык для системы Общество охотников на Ёкаев/Yokai Hunter Society/Yokai Gari Kai",
   "version": "1.0.0",
   "authors": [
@@ -31,3 +31,4 @@
     ]
   }
 }
+
