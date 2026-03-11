@@ -1,0 +1,32 @@
+{
+  "name": "yokai-hunter-ru",
+  "title": "Yokai Hunter Society — Русский перевод [ru]",
+  "description": "Русский язык для системы Общество охотников на Ёкаев/Yokai Hunter Society/Yokai Gari Kai",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "CountAmber",
+      "url": "https://foundryvtt.com/community/countamber"
+    }
+  ],
+  "url": "https://mfn.su/",
+  "id": "yokai-hunter-ru",
+    "compatibility": {
+      "minimum": "12.328",
+      "verified": "13.351"
+    },
+  "languages": [
+    {
+        "lang": "ru",
+        "name": "Russian",
+        "path": "lang/ru.json"
+    }
+  ],
+  "relationships": {
+      "systems": [
+        {
+          "id": "yokai-hunter-society"
+        }
+      ]
+  }
+}
